@@ -1,0 +1,480 @@
+20151008155300     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155301     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155302     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155302     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155304     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155305     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155305     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155305     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155306     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155306     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155307     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155307     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155309     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008155310     Check Barcode Length Fail,Length is 23,Actual length is 10
+20151008182515     Comport name cam't be empty!
+20151008182517     Comport name cam't be empty!
+20151008182552     Comport name cam't be empty!
+20151008182555     Comport name cam't be empty!
+20151008182752     Comport name cam't be empty!
+20151008182925     Open SerialPort=COM1 success.
+20151008183147     Comport name cam't be empty!
+20151008183153     Open SerialPort=COM1 success.
+20151008185107     Open SerialPort=COM2 success.
+20151008190551     Open SerialPort=COM2 success.
+20151008190618     Check Barcode Length Success,Length is 23
+20151008190618     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190618     SN:SC50F543131234567890QWE
+20151008190647     Open SerialPort=COM2 success.
+20151008190656     Check Barcode Length Success,Length is 23
+20151008190656     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190656     SN:SC50F543131234567890QWE
+20151008190658     Check Barcode Length Success,Length is 23
+20151008190658     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190658     SN:SC50F543131234567890QWE
+20151008190659     Check Barcode Length Success,Length is 23
+20151008190659     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190659     SN:SC50F543131234567890QWE
+20151008190700     Check Barcode Length Success,Length is 23
+20151008190700     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190700     SN:SC50F543131234567890QWE
+20151008190723     Check Barcode Length Success,Length is 23
+20151008190723     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190723     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190724     Check Barcode Length Success,Length is 23
+20151008190724     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190724     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190725     SN:SC50F543131234567890QWE
+20151008190725     Check Barcode Length Success,Length is 23
+20151008190725     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190726     SN:SC50F543131234567890QWE
+20151008190726     Check Barcode Length Success,Length is 23
+20151008190726     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190726     SN:SC50F543131234567890QWE
+20151008190726     Check Barcode Length Success,Length is 23
+20151008190726     Check Barcode Start Whit Success,start with is SC50F54313
+20151008190726     SN:SC50F543131234567890QWE
+20151008191300     Open SerialPort=COM2 success.
+20151008191439     Open SerialPort=COM2 success.
+20151008191442     Open SerialPort=COM2 success.
+20151008191621     Open SerialPort=COM2 success.
+20151008191625     Close SerialPort =COM2 success.
+20151008192647     Can't open SerialPort=COM1,Message:对端口“COM1”的访问被拒绝。
+20151008192951     Open SerialPort=COM1 success.
+20151008193003     Check Barcode Length Success,Length is 23
+20151008193003     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193003     SN:SC50F543131234567890QWE
+20151008193003     Send COM1 ST0
+20151008193019     Check Barcode Length Success,Length is 23
+20151008193019     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193019     SN:SC50F543131234567890QWE
+20151008193019     Send COM1 ST0
+20151008193020     Check Barcode Length Success,Length is 23
+20151008193020     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193020     SN:SC50F543131234567890QWE
+20151008193020     Send COM1 ST0
+20151008193021     Check Barcode Length Success,Length is 23
+20151008193021     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193021     SN:SC50F543131234567890QWE
+20151008193021     Send COM1 ST0
+20151008193021     Check Barcode Length Success,Length is 23
+20151008193021     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193021     SN:SC50F543131234567890QWE
+20151008193021     Send COM1 ST0
+20151008193022     Check Barcode Length Success,Length is 23
+20151008193022     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193022     SN:SC50F543131234567890QWE
+20151008193022     Send COM1 ST0
+20151008193235     Open SerialPort=COM1 success.
+20151008193244     Check Barcode Length Success,Length is 23
+20151008193244     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193244     SN:SC50F543131234567890QWE
+20151008193244     Send COM1 ST0
+20151008193252     Check Barcode Length Success,Length is 23
+20151008193252     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193252     SN:SC50F543131234567890QWE
+20151008193252     Send COM1 ST0
+20151008193302     Check Barcode Length Success,Length is 23
+20151008193302     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193302     SN:SC50F543131234567890QWE
+20151008193302     Send COM1 ST0
+20151008193303     Check Barcode Length Success,Length is 23
+20151008193303     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193303     SN:SC50F543131234567890QWE
+20151008193303     Send COM1 ST0
+20151008193303     Check Barcode Length Success,Length is 23
+20151008193303     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193303     SN:SC50F543131234567890QWE
+20151008193303     Send COM1 ST0
+20151008193417     Open SerialPort=COM1 success.
+20151008193431     Check Barcode Length Success,Length is 23
+20151008193431     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193431     SN:SC50F543131234567890QWE
+20151008193431     Send COM1 ST0
+20151008193432     Check Barcode Length Success,Length is 23
+20151008193432     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193432     SN:SC50F543131234567890QWE
+20151008193432     Send COM1 ST0
+20151008193432     Check Barcode Length Success,Length is 23
+20151008193432     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193432     SN:SC50F543131234567890QWE
+20151008193433     Send COM1 ST0
+20151008193433     Check Barcode Length Success,Length is 23
+20151008193433     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193433     SN:SC50F543131234567890QWE
+20151008193433     Send COM1 ST0
+20151008193440     Check Barcode Length Success,Length is 23
+20151008193440     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193440     SN:SC50F543131234567890QWE
+20151008193440     Send COM1 ST0
+20151008193441     Check Barcode Length Success,Length is 23
+20151008193441     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193441     SN:SC50F543131234567890QWE
+20151008193441     Send COM1 ST0
+20151008193451     Close SerialPort=COM1 success.
+20151008193528     Open SerialPort=COM1 success.
+20151008193536     Check Barcode Length Success,Length is 23
+20151008193536     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193536     SN:SC50F543131234567890QWE
+20151008193536     Send COM1 ST0
+20151008193538     Check Barcode Length Success,Length is 23
+20151008193538     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193538     SN:SC50F543131234567890QWE
+20151008193538     Send COM1 ST0
+20151008193552     Close SerialPort=COM1 success.
+20151008193845     Open SerialPort=COM1 success.
+20151008193854     Close SerialPort=COM1 success.
+20151008193859     Open SerialPort=COM1 success.
+20151008193906     Check Barcode Length Success,Length is 23
+20151008193906     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193906     SN:SC50F543131234567890QWE
+20151008193906     Send COM1 ST0
+20151008193907     Check Barcode Length Success,Length is 23
+20151008193907     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193907     SN:SC50F543131234567890QWE
+20151008193907     Send COM1 ST0
+20151008193909     Check Barcode Length Success,Length is 23
+20151008193909     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193909     SN:SC50F543131234567890QWE
+20151008193909     Send COM1 ST0
+20151008193909     Check Barcode Length Success,Length is 23
+20151008193909     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193909     SN:SC50F543131234567890QWE
+20151008193909     Send COM1 ST0
+20151008193910     Check Barcode Length Success,Length is 23
+20151008193910     Check Barcode Start Whit Success,start with is SC50F54313
+20151008193910     SN:SC50F543131234567890QWE
+20151008193910     Send COM1 ST0
+20151008193954     Open SerialPort=COM1 success.
+20151008194000     Close SerialPort=COM1 success.
+20151008194004     Open SerialPort=COM1 success.
+20151008194010     Check Barcode Length Success,Length is 23
+20151008194010     Check Barcode Start Whit Success,start with is SC50F54313
+20151008194010     SN:SC50F543131234567890QWE
+20151008194010     Send COM1 ST0
+20151008194011     Check Barcode Length Success,Length is 23
+20151008194011     Check Barcode Start Whit Success,start with is SC50F54313
+20151008194011     SN:SC50F543131234567890QWE
+20151008194011     Send COM1 ST0
+20151008194011     Check Barcode Length Success,Length is 23
+20151008194011     Check Barcode Start Whit Success,start with is SC50F54313
+20151008194011     SN:SC50F543131234567890QWE
+20151008194011     Send COM1 ST0
+20151008194011     Check Barcode Length Success,Length is 23
+20151008194012     Check Barcode Start Whit Success,start with is SC50F54313
+20151008194012     SN:SC50F543131234567890QWE
+20151008194012     Send COM1 ST0
+20151008194018     Close SerialPort=COM1 success.
+20151008194543     Open SerialPort=COM1 success.
+20151008194719     Close SerialPort=COM1 success.
+20151008194723     Open SerialPort=COM1 success.
+20151008201050     Open SerialPort=COM1 success.
+20151008201057     Check Barcode Length Success,Length is 23
+20151008201057     Check Barcode Start Whit Success,start with is SC50F54313
+20151008201057     SN:SC50F543131234567890QWE
+20151008201057     Send COM1 ST0
+20151008201100     Check Barcode Length Success,Length is 23
+20151008201100     Check Barcode Start Whit Success,start with is SC50F54313
+20151008201100     SN:SC50F543131234567890QWE
+20151008201100     Send COM1 ST0
+20151008201117     Check Barcode Length Success,Length is 23
+20151008201117     Check Barcode Start Whit Success,start with is SC50F54313
+20151008201117     SN:SC50F543131234567890QWE
+20151008201117     Send COM1 ST0
+20151008201240     Barcode can't be empty.retry input it.
+20151008201241     Barcode can't be empty.retry input it.
+20151008201248     Open SerialPort=COM1 success.
+20151008201253     Close SerialPort=COM1 success.
+20151008201259     Open SerialPort=COM1 success.
+20151008201306     Check Barcode Length Success,Length is 23
+20151008201306     Check Barcode Start Whit Success,start with is SC50F54313
+20151008201306     SN:SC50F543131234567890QWE
+20151008201306     Send COM1 ST0
+20151008201434     Open SerialPort=COM1 success.
+20151008201535     Open SerialPort=COM1 success.
+20151008201539     Close SerialPort=COM1 success.
+20151008201541     Open SerialPort=COM1 success.
+20151008201542     Close SerialPort=COM1 success.
+20151008201719     Open SerialPort=COM1 success.
+20151008201724     Close SerialPort=COM1 success.
+20151008201731     Open SerialPort=COM1 success.
+20151008201740     Check Barcode Length Success,Length is 23
+20151008201740     Check Barcode Start Whit Success,start with is SC50F54313
+20151008201740     SN:SC50F543131234567890QWE
+20151008201740     Send COM1 ST0
+20151008202233     Open SerialPort=COM1 success.
+20151008202330     Open SerialPort=COM1 success.
+20151008203109     Open SerialPort=COM1 success.
+20151008203113     PLC->PLC:st0
+20151008203113     PLC->PLC:st0
+20151008203113     PLC->PLC:st0
+20151008203114     PLC->PLC:st0
+20151008203120     PLC->PLC:st0st0st0
+20151008203121     PLC->PLC:st0
+20151008203122     PLC->PLC:st0
+20151008210511     Open SerialPort=COM1 success.
+20151008210523     PLC->PC:PAS
+20151008210533     PLC->PC:FAI
+20151008210854     Open SerialPort=COM1 success.
+20151008210903     PLC->PC:Y01
+20151008210914     PLC->PC:N01
+20151008211101     Open SerialPort=COM1 success.
+20151008211111     PLC->PC:N01
+20151008211121     PLC->PC:PAS
+20151008211125     PLC->PC:PAS
+20151008211126     PLC->PC:PAS
+20151008211130     PLC->PC:FAI
+20151008211131     PLC->PC:FAI
+20151008215254     Open SerialPort=COM1 success.
+20151008215258     Close SerialPort=COM1 success.
+20151008215304     Open SerialPort=COM1 success.
+20151008215319     Check Barcode Length Success,Length is 23
+20151008215319     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215319     SN:SC50F543131234567890QWE
+20151008215319     Send COM1 ST0
+20151008215324     PLC->PC:FAI
+20151008215331     PLC->PC:FAI
+20151008215332     PLC->PC:FAI
+20151008215333     PLC->PC:FAI
+20151008215333     PLC->PC:FAI
+20151008215514     Open SerialPort=COM1 success.
+20151008215518     Close SerialPort=COM1 success.
+20151008215526     Open SerialPort=COM1 success.
+20151008215532     Check Barcode Length Success,Length is 23
+20151008215532     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215532     SN:SC50F543131234567890QWE
+20151008215532     Send COM1 ST0
+20151008215538     PLC->PC:FAI
+20151008215625     Open SerialPort=COM1 success.
+20151008215628     Close SerialPort=COM1 success.
+20151008215635     Open SerialPort=COM1 success.
+20151008215644     Check Barcode Length Success,Length is 23
+20151008215644     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215644     SN:SC50F543131234567890QWE
+20151008215644     Send COM1 ST0
+20151008215657     PLC->PC:FAI
+20151008215700     Check Barcode Length Success,Length is 23
+20151008215700     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215700     SN:SC50F543131234567890QWE
+20151008215700     Send COM1 ST0
+20151008215708     PLC->PC:PAS
+20151008215812     Open SerialPort=COM1 success.
+20151008215818     Check Barcode Length Success,Length is 23
+20151008215818     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215818     SN:SC50F543131234567890QWE
+20151008215818     Send COM1 ST0
+20151008215822     PLC->PC:PAS
+20151008215905     Open SerialPort=COM1 success.
+20151008215915     Check Barcode Length Success,Length is 23
+20151008215915     Check Barcode Start Whit Success,start with is SC50F54313
+20151008215915     SN:SC50F543131234567890QWE
+20151008215915     Send COM1 ST0
+20151008215920     PLC->PC:PAS
+20151008220037     Open SerialPort=COM1 success.
+20151008220044     Check Barcode Length Success,Length is 23
+20151008220044     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220044     SN:SC50F543131234567890QWE
+20151008220044     Send COM1 ST0
+20151008220052     PLC->PC:PAS
+20151008220058     Check Barcode Length Success,Length is 23
+20151008220058     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220058     SN:SC50F543131234567890QWE
+20151008220058     Send COM1 ST0
+20151008220102     PLC->PC:FAI
+20151008220112     PLC->PC:FAI
+20151008220113     PLC->PC:FAI
+20151008220114     PLC->PC:FAI
+20151008220144     Open SerialPort=COM1 success.
+20151008220151     Check Barcode Length Success,Length is 23
+20151008220151     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220151     SN:SC50F543131234567890QWE
+20151008220151     Send COM1 ST0
+20151008220154     PLC->PC:FAI
+20151008220223     Check Barcode Length Success,Length is 23
+20151008220223     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220223     SN:SC50F543131234567890QWE
+20151008220223     Send COM1 ST0
+20151008220231     PLC->PC:PAS
+20151008220355     Open SerialPort=COM1 success.
+20151008220400     Close SerialPort=COM1 success.
+20151008220404     Open SerialPort=COM1 success.
+20151008220409     Check Barcode Length Success,Length is 23
+20151008220409     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220409     SN:SC50F543131234567890QWE
+20151008220409     Send COM1 ST0
+20151008220413     PLC->PC:PAS
+20151008220417     Check Barcode Length Success,Length is 23
+20151008220417     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220417     SN:SC50F543131234567890QWE
+20151008220417     Send COM1 ST0
+20151008220425     PLC->PC:FAI
+20151008220431     PLC->PC:FAI
+20151008220432     PLC->PC:FAI
+20151008220437     PLC->PC:PAS
+20151008220438     PLC->PC:PAS
+20151008220439     PLC->PC:PAS
+20151008220439     PLC->PC:PAS
+20151008220439     PLC->PC:PAS
+20151008220440     PLC->PC:PAS
+20151008220440     PLC->PC:PAS
+20151008220441     PLC->PC:PAS
+20151008220441     PLC->PC:PAS
+20151008220445     Close SerialPort=COM1 success.
+20151008220446     Open SerialPort=COM1 success.
+20151008220449     PLC->PC:PAS
+20151008220505     Open SerialPort=COM1 success.
+20151008220512     Check Barcode Length Success,Length is 23
+20151008220512     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220512     SN:SC50F543131234567890QWE
+20151008220512     Send COM1 ST0
+20151008220517     PLC->PC:PAS
+20151008220522     Check Barcode Length Success,Length is 23
+20151008220522     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220522     SN:SC50F543131234567890QWE
+20151008220522     Send COM1 ST0
+20151008220525     PLC->PC:PAS
+20151008220528     Check Barcode Length Success,Length is 23
+20151008220528     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220528     SN:SC50F543131234567890QWE
+20151008220528     Send COM1 ST0
+20151008220535     PLC->PC:FAI
+20151008220639     Open SerialPort=COM1 success.
+20151008220647     Close SerialPort=COM1 success.
+20151008220651     Open SerialPort=COM1 success.
+20151008220658     Check Barcode Length Success,Length is 23
+20151008220658     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220658     SN:SC50F543131234567890QWE
+20151008220658     Send COM1 ST0
+20151008220702     PLC->PC:FAI
+20151008220707     PLC->PC:FAI
+20151008220809     Open SerialPort=COM1 success.
+20151008220812     Close SerialPort=COM1 success.
+20151008220819     Open SerialPort=COM1 success.
+20151008220825     Check Barcode Length Success,Length is 23
+20151008220825     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220825     SN:SC50F543131234567890QWE
+20151008220825     Send COM1 ST0
+20151008220829     PLC->PC:FAI
+20151008220836     Check Barcode Length Success,Length is 23
+20151008220836     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220836     SN:SC50F543131234567890QWR
+20151008220836     Send COM1 ST0
+20151008220838     PLC->PC:FAI
+20151008220844     Check Barcode Length Success,Length is 23
+20151008220844     Check Barcode Start Whit Success,start with is SC50F54313
+20151008220844     SN:SC50F543131234567890QWT
+20151008220844     Send COM1 ST0
+20151008220847     PLC->PC:PAS
+20151008221304     Open SerialPort=COM1 success.
+20151008221307     Close SerialPort=COM1 success.
+20151008221312     Open SerialPort=COM1 success.
+20151008221322     Check Barcode Length Success,Length is 23
+20151008221322     Check Barcode Start Whit Success,start with is SC50F54313
+20151008221322     SN:SC50F543131234567890QWE
+20151008221322     Send COM1 ST0
+20151008221326     PLC->PC:PAS
+20151008221329     PLC->PC:PAS
+20151008221334     PLC->PC:FAI
+20151008221335     PLC->PC:FAI
+20151008221335     PLC->PC:FAI
+20151008221336     PLC->PC:FAI
+20151008221337     PLC->PC:FAI
+20151008221339     PLC->PC:FAI
+20151008221341     PLC->PC:FAI
+20151008221342     PLC->PC:FAI
+20151008222210     Open SerialPort=COM1 success.
+20151008222211     Close SerialPort=COM1 success.
+20151008222217     Open SerialPort=COM1 success.
+20151008222235     Check Barcode Length Success,Length is 23
+20151008222235     Check Barcode Start Whit Success,start with is SC50F54313
+20151008222235     SN:SC50F543131234567890QWE
+20151008222235     Send COM1 ST0
+20151008222252     PLC->PC:st0
+20151008222258     PLC->PC:Y01
+20151008222302     PLC->PC:Y02
+20151008222304     PLC->PC:Y03
+20151008222308     PLC->PC:PAS
+20151008222316     Check Barcode Length Success,Length is 23
+20151008222316     Check Barcode Start Whit Success,start with is SC50F54313
+20151008222316     SN:SC50F543131234567890QWR
+20151008222316     Send COM1 ST0
+20151008222323     PLC->PC:st0
+20151008222329     PLC->PC:Y01
+20151008222332     PLC->PC:Y02
+20151008222335     PLC->PC:N03
+20151008222339     PLC->PC:FAI
+20151008222640     Open SerialPort=COM1 success.
+20151008222649     Close SerialPort=COM1 success.
+20151008222654     Open SerialPort=COM1 success.
+20151008222702     Check Barcode Length Success,Length is 23
+20151008222702     Check Barcode Start Whit Success,start with is SC50F54313
+20151008222702     SN:SC50F543131234567890QWE
+20151008222702     Send COM1 ST0
+20151008222709     PLC->PC:FAI
+20151008222715     Check Barcode Length Success,Length is 23
+20151008222715     Check Barcode Start Whit Success,start with is SC50F54313
+20151008222715     SN:SC50F543131234567890QWR
+20151008222715     Send COM1 ST0
+20151008222718     PLC->PC:FAI
+20151008223108     Open SerialPort=COM1 success.
+20151008223110     Close SerialPort=COM1 success.
+20151008225118     Open SerialPort=COM1 success.
+20151008225119     Close SerialPort=COM1 success.
